@@ -1,4 +1,4 @@
-This directory contains the code and data used to generate Figure 2E in Paul et al. 2026.
+This directory contains the code and data used to generate Figure 2E in Paul, Kay et al. 2026.
 
 The subdirectories Old and Young, contain the tracking data needed to run the code and generate the plot.
 
