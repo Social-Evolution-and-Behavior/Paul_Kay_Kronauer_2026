@@ -20,4 +20,4 @@ NOTE: the Code should be run in order from 1 to 4 to properly generate the expec
 
 NOTE: to compare the outputs from running the code on your local system, be sure to save the output files to a different directory than /Sample_data_brood_care_assay/antrax/analysis 
 
-This experiment and sample dataset is not published in Paul et al. 2025. However it accurately demonstrates the methods used to analyze all behavioral experiments in the publication.
+This experiment and sample dataset is not published in Paul et al. 2026. However it accurately demonstrates the methods used to analyze all behavioral experiments in the publication.
